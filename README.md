@@ -1,9 +1,7 @@
 # Desafio Top 100
 
 ## Realizando consultas PostgreSQL
-###
 
-### 
     1. Crear base de datos llamada películas.
     2. Cargar ambos archivos a su tabla correspondiente.
     3. Obtener el ID de la película “Titanic”.
